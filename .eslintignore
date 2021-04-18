@@ -1,0 +1,3 @@
+**/*.just
+node_modules
+build
